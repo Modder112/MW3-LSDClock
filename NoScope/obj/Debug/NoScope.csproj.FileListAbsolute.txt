@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\NoScope\NoScope\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\NoScope\NoScope\obj\Debug\NoScope.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\NoScope\NoScope\bin\Debug\clock.auto.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\NoScope\NoScope\bin\Debug\clock.auto.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\NoScope\NoScope\obj\Debug\clock.auto.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\NoScope\NoScope\obj\Debug\clock.auto.pdb
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\NoScope\NoScope\bin\Debug\clock.auto.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\NoScope\NoScope\bin\Debug\clock.auto.pdb
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\NoScope\NoScope\obj\Debug\NoScope.csprojResolveAssemblyReference.cache
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\NoScope\NoScope\obj\Debug\clock.auto.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\NoScope\NoScope\obj\Debug\clock.auto.pdb
